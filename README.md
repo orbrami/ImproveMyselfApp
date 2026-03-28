@@ -36,10 +36,10 @@ ImproveMyself is a comprehensive Android lifestyle management application design
 ---
 
 ## 📸 Screenshots
-https://mail.google.com/mail/u/0?ui=2&ik=4c0053657e&attid=0.3&permmsgid=msg-a:r338860830863589399&th=19d364822ef63354&view=att&disp=safe&realattid=19d3648117dd96b0aae1&zw
-https://mail.google.com/mail/u/0?ui=2&ik=4c0053657e&attid=0.1&permmsgid=msg-a:r338860830863589399&th=19d364822ef63354&view=att&disp=safe&realattid=19d3648117dd98739b02&zw
-https://mail.google.com/mail/u/0?ui=2&ik=4c0053657e&attid=0.4&permmsgid=msg-a:r338860830863589399&th=19d364822ef63354&view=att&disp=safe&realattid=19d3648117dd9a368b23&zw
-https://mail.google.com/mail/u/0?ui=2&ik=4c0053657e&attid=0.2&permmsgid=msg-a:r338860830863589399&th=19d364822ef63354&view=att&disp=safe&realattid=19d3648117dd9bf97b44&zw
+![Goal Countdown Screen](https://mail.google.com/mail/u/0?ui=2&ik=4c0053657e&attid=0.3&permmsgid=msg-a:r338860830863589399&th=19d364822ef63354&view=att&disp=safe&realattid=19d3648117dd96b0aae1&zw)
+![Workout Screen](https://mail.google.com/mail/u/0?ui=2&ik=4c0053657e&attid=0.1&permmsgid=msg-a:r338860830863589399&th=19d364822ef63354&view=att&disp=safe&realattid=19d3648117dd98739b02&zw)
+![Diet Screen](https://mail.google.com/mail/u/0?ui=2&ik=4c0053657e&attid=0.4&permmsgid=msg-a:r338860830863589399&th=19d364822ef63354&view=att&disp=safe&realattid=19d3648117dd9a368b23&zw)
+![Movie Goal Screen](https://mail.google.com/mail/u/0?ui=2&ik=4c0053657e&attid=0.2&permmsgid=msg-a:r338860830863589399&th=19d364822ef63354&view=att&disp=safe&realattid=19d3648117dd9bf97b44&zw)
 ---
 
 ## 🚀 Getting Started
